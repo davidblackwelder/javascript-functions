@@ -14,4 +14,4 @@ let laugh = function (num) {
     return message + "!";
 };
 
-console.log(laugh(3)); // prints hahaha
+console.log(laugh(3)); // prints "hahaha!"
